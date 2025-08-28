@@ -1,0 +1,23 @@
+{
+  "manifestVersion": 1,
+  "id": "auto_cloze",
+  "name": "AutoCloze",
+  "author": "keroph",
+  "repoUrl": "https://github.com/keroph/auto-cloze",
+  
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "theme": [],
+  "enableOnMobile": false,
+  "description": "",
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "Read"
+    }
+  ]
+}
